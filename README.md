@@ -7,7 +7,7 @@ This is a sample ChatPDF app built using Langchain.
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/jaikanthjay46/langchain-sample-app.git
+    git clone https://github.com/SigNoz/langchain-sample-app.git
     ```
 
 2. Navigate to the project directory:
