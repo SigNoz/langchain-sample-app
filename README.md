@@ -40,12 +40,14 @@ You can sign up for SigNoz cloud [here](https://signoz.io/teams/). You can get y
 ![ingestion-settings](https://github.com/SigNoz/langchain-sample-app/assets/83692067/1b221075-a765-461a-a1ce-68df24e0dee3)
 
 
+### Update environment variables
+
+Update the SigNoz access token, data region, and your OpenAI API key.
+
 ### Replace book.pdf with your PDF
 ```
 curl https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf -o book.pdf
 ```
-
-### Replace environment variables based 
 
 ### Run queries on book.pdf
 
